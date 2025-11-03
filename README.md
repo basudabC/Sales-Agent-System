@@ -13,6 +13,7 @@ The **AI Agentic Sales Intelligence System** is an advanced, modular framework t
 Built on **LangChain** and **LangGraph**, the system orchestrates multiple reasoning layers—each responsible for data retrieval, interpretation, and decision-making. It uses **Groq inference acceleration** for ultra-fast LLM responses, enabling near real-time analytics and intelligent task execution.
 
 [![Watch the Demo](assets/salesagent.png)](https://drive.google.com/file/d/1t2FvVGvdRAaF7eC-pajXi-dC8RFYRiNL/view?usp=sharing)
+**[watch demo](https://drive.google.com/file/d/1t2FvVGvdRAaF7eC-pajXi-dC8RFYRiNL/view?usp=sharing)**
 
 ---
 
